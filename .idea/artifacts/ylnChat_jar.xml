@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ylnChat:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ylnChat_jar</output-path>
+    <root id="archive" name="ylnChat.jar">
+      <element id="module-output" name="ylnChat" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Downloads/jgoodies-common-1.6.0/jgoodies-common-1.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.10.1/jackson-core-2.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.10.1/jackson-annotations-2.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.10.1/jackson-databind-2.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/formdev/flatlaf/0.26/flatlaf-0.26.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Downloads/jgoodies-forms-1.7.2/jgoodies-forms-1.7.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
