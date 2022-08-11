@@ -1,5 +1,5 @@
 # java-Swing-Chat
-一个使用java Swing开发的聊天室
+一个使用java Swing Socket开发的聊天室
 ### 前言：本项目就是为了应付学校结课任务，功能简单，仅供参考
 ### 运行截图：
 ![image](https://user-images.githubusercontent.com/53972636/183886994-0e05e767-b859-4295-ab29-f9f10f090e3d.png)
